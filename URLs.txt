@@ -9,3 +9,6 @@ https://tic-tac-toe-self-q3ibjxwrt-hshehriyaralams-projects.vercel.app/
 
 Sanke Game :
 https://snake-game-p0vwm8skd-hshehriyaralams-projects.vercel.app/
+
+Stop watch :
+https://stop-watch-iqup1m7ax-hshehriyaralams-projects.vercel.app/
