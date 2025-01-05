@@ -14,4 +14,4 @@ Stop watch :
 https://stop-watch-iqup1m7ax-hshehriyaralams-projects.vercel.app/
 
 Bithday Timmer :
- https://birth-day-timmer-2wpcin4h8-hshehriyaralams-projects.vercel.app
+ https://birth-day-timmer-nhf2fvd0g-hshehriyaralams-projects.vercel.app/
