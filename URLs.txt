@@ -15,3 +15,6 @@ https://stop-watch-iqup1m7ax-hshehriyaralams-projects.vercel.app/
 
 Bithday Timmer :
  https://birth-day-timmer-nhf2fvd0g-hshehriyaralams-projects.vercel.app/
+
+Color Generator :
+https://color-generator-9or17u9f6-hshehriyaralams-projects.vercel.app/
