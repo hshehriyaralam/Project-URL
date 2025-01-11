@@ -20,7 +20,7 @@ Color Generator :
 https://color-generator-9or17u9f6-hshehriyaralams-projects.vercel.app/
 
 Random Password Generator
-https://random-password-generator-6u5l9afes-hshehriyaralams-projects.vercel.app/
+https://quiz-9gcatk749-hshehriyaralams-projects.vercel.app/
 
 
 Quiz App 
